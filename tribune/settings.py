@@ -109,6 +109,7 @@ DATABASES = {
         'NAME': 'tribune',
         'USER': 'projects',
         'PASSWORD': 'badar',
+        
     }
 }
 
